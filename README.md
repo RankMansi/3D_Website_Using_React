@@ -22,3 +22,18 @@ Once the development server is running, open your browser and navigate to your l
 - **Customizable**: Easily customize and extend the 3D scenes and components to fit your specific requirements.
 - **Responsive Design**: Ensures the website is responsive and works seamlessly across various devices and screen sizes.
 
+
+## Dependencies
+
+- **React**: A JavaScript library for building user interfaces.
+- **Three.js**: A lightweight 3D library for WebGL.
+- **Webpack**: A module bundler for JavaScript applications.
+- **Babel**: A JavaScript compiler that allows developers to use the latest JavaScript features.
+- **Other dependencies**: Check `package.json` for a complete list of dependencies.
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+
+
+
